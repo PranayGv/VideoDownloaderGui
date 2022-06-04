@@ -1,4 +1,4 @@
-# VideoDownloaderGui
+# VideoDownloaderGui_Python
 Downloads videos from Youtube using URL of the video
 <br>
 
